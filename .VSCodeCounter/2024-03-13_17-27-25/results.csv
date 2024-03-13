@@ -1,0 +1,36 @@
+"filename", "language", "JSON", "JSON with Comments", "TypeScript", "JavaScript", "Markdown", "SQL", "Prisma", "comment", "blank", "total"
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\.eslintrc.js", "JavaScript", 0, 0, 0, 25, 0, 0, 0, 0, 1, 26
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\.prettierrc", "JSON", 4, 0, 0, 0, 0, 0, 0, 0, 0, 4
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\README.md", "Markdown", 0, 0, 0, 0, 51, 0, 0, 2, 21, 74
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\nest-cli.json", "JSON", 8, 0, 0, 0, 0, 0, 0, 0, 1, 9
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\package-lock.json", "JSON", 8937, 0, 0, 0, 0, 0, 0, 0, 1, 8938
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\package.json", "JSON", 76, 0, 0, 0, 0, 0, 0, 0, 1, 77
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\prisma\migrations\20240305011726_init\migration.sql", "SQL", 0, 0, 0, 0, 0, 12, 0, 3, 5, 20
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\prisma\migrations\20240305012456_init\migration.sql", "SQL", 0, 0, 0, 0, 0, 15, 0, 13, 8, 36
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\prisma\migrations\20240305021003_make_nullable\migration.sql", "SQL", 0, 0, 0, 0, 0, 3, 0, 3, 3, 9
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\prisma\migrations\20240305021130_add_is_done\migration.sql", "SQL", 0, 0, 0, 0, 0, 1, 0, 7, 1, 9
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\prisma\migrations\20240306184221_update_to_is_done\migration.sql", "SQL", 0, 0, 0, 0, 0, 1, 0, 1, 1, 3
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\prisma\schema.prisma", "Prisma", 0, 0, 0, 0, 0, 0, 21, 4, 8, 33
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\app.controller.spec.ts", "TypeScript", 0, 0, 18, 0, 0, 0, 0, 0, 5, 23
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\app.controller.ts", "TypeScript", 0, 0, 10, 0, 0, 0, 0, 0, 3, 13
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\app.module.ts", "TypeScript", 0, 0, 11, 0, 0, 0, 0, 0, 2, 13
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\app.service.ts", "TypeScript", 0, 0, 7, 0, 0, 0, 0, 0, 2, 9
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\database\prismaService.ts", "TypeScript", 0, 0, 8, 0, 0, 0, 0, 0, 1, 9
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\main.ts", "TypeScript", 0, 0, 8, 0, 0, 0, 0, 0, 2, 10
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tags\dto\tags.dto.ts", "TypeScript", 0, 0, 5, 0, 0, 0, 0, 0, 1, 6
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tags\tags.controller.spec.ts", "TypeScript", 0, 0, 16, 0, 0, 0, 0, 0, 5, 21
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tags\tags.controller.ts", "TypeScript", 0, 0, 44, 0, 0, 0, 0, 0, 8, 52
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tags\tags.module.ts", "TypeScript", 0, 0, 9, 0, 0, 0, 0, 0, 2, 11
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tags\tags.service.spec.ts", "TypeScript", 0, 0, 14, 0, 0, 0, 0, 0, 5, 19
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tags\tags.service.ts", "TypeScript", 0, 0, 71, 0, 0, 0, 0, 0, 17, 88
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tasks\dto\tasks.dto.ts", "TypeScript", 0, 0, 6, 0, 0, 0, 0, 0, 0, 6
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tasks\tasks.controller.spec.ts", "TypeScript", 0, 0, 33, 0, 0, 0, 0, 2, 8, 43
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tasks\tasks.controller.ts", "TypeScript", 0, 0, 57, 0, 0, 0, 0, 0, 14, 71
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tasks\tasks.module.ts", "TypeScript", 0, 0, 9, 0, 0, 0, 0, 0, 2, 11
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tasks\tasks.service.spec.ts", "TypeScript", 0, 0, 14, 0, 0, 0, 0, 0, 5, 19
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tasks\tasks.service.ts", "TypeScript", 0, 0, 111, 0, 0, 0, 0, 0, 19, 130
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\test\app.e2e-spec.ts", "TypeScript", 0, 0, 20, 0, 0, 0, 0, 0, 5, 25
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\test\jest-e2e.json", "JSON", 9, 0, 0, 0, 0, 0, 0, 0, 1, 10
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\tsconfig.build.json", "JSON", 4, 0, 0, 0, 0, 0, 0, 0, 1, 5
+"d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\tsconfig.json", "JSON with Comments", 0, 21, 0, 0, 0, 0, 0, 0, 1, 22
+"Total", "-", 9038, 21, 471, 25, 51, 32, 21, 35, 160, 9854

@@ -1,4 +1,4 @@
-import { Body, Controller, Delete, Get, HttpException, HttpStatus, Param, Patch, Post } from '@nestjs/common';
+import { Body, Controller, Delete, Get, HttpCode, HttpException, HttpStatus, Param, Patch, Post } from '@nestjs/common';
 import { TagsService } from './tags.service';
 import { TagsDTO } from './dto/tags.dto';
 
@@ -32,6 +32,12 @@ export class TagsController {
     } catch (error) {
       throw new HttpException(`Failed to update tag: ${error.message}`, HttpStatus.BAD_REQUEST);
     }
+  }
+
+  @Delete()
+  @HttpCode(HttpStatus.NO_CONTENT)
+  async deleteAllTags() {
+    await this.tagsService.deleteAllTags();
   }
 
   @Delete(':id') 

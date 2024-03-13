@@ -84,6 +84,7 @@ export class TasksService {
       data: {
         name: data.name,
         isDone: data.isDone,
+        tagId: data.tagId
       },
     });
 

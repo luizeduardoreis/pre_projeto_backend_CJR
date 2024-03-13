@@ -1,0 +1,83 @@
+Date : 2024-03-13 17:27:25
+Directory : d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto
+Total : 34 files,  9659 codes, 35 comments, 160 blanks, all 9854 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          6 |      9,038 |          0 |          5 |      9,043 |
+| TypeScript         |         19 |        471 |          2 |        106 |        579 |
+| Markdown           |          1 |         51 |          2 |         21 |         74 |
+| SQL                |          5 |         32 |         27 |         18 |         77 |
+| JavaScript         |          1 |         25 |          0 |          1 |         26 |
+| JSON with Comments |          1 |         21 |          0 |          1 |         22 |
+| Prisma             |          1 |         21 |          4 |          8 |         33 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++-----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                  | files      | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                     |         34 |      9,659 |         35 |        160 |      9,854 |
+| . (Files)                                                                                                             |          8 |      9,126 |          2 |         27 |      9,155 |
+| prisma                                                                                                                |          6 |         53 |         31 |         26 |        110 |
+| prisma (Files)                                                                                                        |          1 |         21 |          4 |          8 |         33 |
+| prisma\migrations                                                                                                     |          5 |         32 |         27 |         18 |         77 |
+| prisma\migrations\20240305011726_init                                                                                 |          1 |         12 |          3 |          5 |         20 |
+| prisma\migrations\20240305012456_init                                                                                 |          1 |         15 |         13 |          8 |         36 |
+| prisma\migrations\20240305021003_make_nullable                                                                        |          1 |          3 |          3 |          3 |          9 |
+| prisma\migrations\20240305021130_add_is_done                                                                          |          1 |          1 |          7 |          1 |          9 |
+| prisma\migrations\20240306184221_update_to_is_done                                                                    |          1 |          1 |          1 |          1 |          3 |
+| src                                                                                                                   |         18 |        451 |          2 |        101 |        554 |
+| src (Files)                                                                                                           |          5 |         54 |          0 |         14 |         68 |
+| src\database                                                                                                          |          1 |          8 |          0 |          1 |          9 |
+| src\tags                                                                                                              |          6 |        159 |          0 |         38 |        197 |
+| src\tags (Files)                                                                                                      |          5 |        154 |          0 |         37 |        191 |
+| src\tags\dto                                                                                                          |          1 |          5 |          0 |          1 |          6 |
+| src\tasks                                                                                                             |          6 |        230 |          2 |         48 |        280 |
+| src\tasks (Files)                                                                                                     |          5 |        224 |          2 |         48 |        274 |
+| src\tasks\dto                                                                                                         |          1 |          6 |          0 |          0 |          6 |
+| test                                                                                                                  |          2 |         29 |          0 |          6 |         35 |
++-----------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-----------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                                              | language           | code       | comment    | blank      | total      |
++-----------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\.eslintrc.js                                                     | JavaScript         |         25 |          0 |          1 |         26 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\.prettierrc                                                      | JSON               |          4 |          0 |          0 |          4 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\README.md                                                        | Markdown           |         51 |          2 |         21 |         74 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\nest-cli.json                                                    | JSON               |          8 |          0 |          1 |          9 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\package-lock.json                                                | JSON               |      8,937 |          0 |          1 |      8,938 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\package.json                                                     | JSON               |         76 |          0 |          1 |         77 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\prisma\migrations\20240305011726_init\migration.sql              | SQL                |         12 |          3 |          5 |         20 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\prisma\migrations\20240305012456_init\migration.sql              | SQL                |         15 |         13 |          8 |         36 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\prisma\migrations\20240305021003_make_nullable\migration.sql     | SQL                |          3 |          3 |          3 |          9 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\prisma\migrations\20240305021130_add_is_done\migration.sql       | SQL                |          1 |          7 |          1 |          9 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\prisma\migrations\20240306184221_update_to_is_done\migration.sql | SQL                |          1 |          1 |          1 |          3 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\prisma\schema.prisma                                             | Prisma             |         21 |          4 |          8 |         33 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\app.controller.spec.ts                                       | TypeScript         |         18 |          0 |          5 |         23 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\app.controller.ts                                            | TypeScript         |         10 |          0 |          3 |         13 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\app.module.ts                                                | TypeScript         |         11 |          0 |          2 |         13 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\app.service.ts                                               | TypeScript         |          7 |          0 |          2 |          9 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\database\prismaService.ts                                    | TypeScript         |          8 |          0 |          1 |          9 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\main.ts                                                      | TypeScript         |          8 |          0 |          2 |         10 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tags\dto\tags.dto.ts                                         | TypeScript         |          5 |          0 |          1 |          6 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tags\tags.controller.spec.ts                                 | TypeScript         |         16 |          0 |          5 |         21 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tags\tags.controller.ts                                      | TypeScript         |         44 |          0 |          8 |         52 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tags\tags.module.ts                                          | TypeScript         |          9 |          0 |          2 |         11 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tags\tags.service.spec.ts                                    | TypeScript         |         14 |          0 |          5 |         19 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tags\tags.service.ts                                         | TypeScript         |         71 |          0 |         17 |         88 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tasks\dto\tasks.dto.ts                                       | TypeScript         |          6 |          0 |          0 |          6 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tasks\tasks.controller.spec.ts                               | TypeScript         |         33 |          2 |          8 |         43 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tasks\tasks.controller.ts                                    | TypeScript         |         57 |          0 |         14 |         71 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tasks\tasks.module.ts                                        | TypeScript         |          9 |          0 |          2 |         11 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tasks\tasks.service.spec.ts                                  | TypeScript         |         14 |          0 |          5 |         19 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\src\tasks\tasks.service.ts                                       | TypeScript         |        111 |          0 |         19 |        130 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\test\app.e2e-spec.ts                                             | TypeScript         |         20 |          0 |          5 |         25 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\test\jest-e2e.json                                               | JSON               |          9 |          0 |          1 |         10 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\tsconfig.build.json                                              | JSON               |          4 |          0 |          1 |          5 |
+| d:\pastas_relevantes\UnB\CJR\pre_projeto\pre_projeto\tsconfig.json                                                    | JSON with Comments |         21 |          0 |          1 |         22 |
+| Total                                                                                                                 |                    |      9,659 |         35 |        160 |      9,854 |
++-----------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
